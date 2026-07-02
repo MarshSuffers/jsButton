@@ -1,7 +1,8 @@
 h2,
 p,
 a,
-label {
+label,
+span {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: white;
   text-align: center;
@@ -33,6 +34,10 @@ h2 {
 
 p {
   max-width: 75%;
+}
+
+span {
+  margin: 0;
 }
 
 label,
